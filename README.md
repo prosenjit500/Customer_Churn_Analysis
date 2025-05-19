@@ -1,7 +1,5 @@
 # 📊 *Customer Churn Analysis Report*
 
-### *Project Title:* Customer Churn Analysis
-
 ### *Prepared by:* Prosenjit Majumder
 
 ### *Tools Used:* Python (Pandas, Seaborn, Matplotlib), Jupyter Notebook
@@ -95,9 +93,9 @@ The dataset consists of *5,283* customer records with the following key attribut
 
 ## 📁 *7. Project Files & Artifacts*
 
-* Dataset: Customer Churn.csv
-* Jupyter Notebook: EDA, Visualization, Preprocessing
-* PDF Report: Provide actionable insights to reduce customer attrition
+* Dataset: Customer Churn.csv [👁️ View | 📥 Download](https://github.com/prosenjit500/Customer_Churn_Analysis/blob/main/Customer%20Churn.csv)
+* Jupyter Notebook: EDA, Visualization, Preprocessing [👁️ View | 📥 Download](https://github.com/prosenjit500/Customer_Churn_Analysis/blob/main/Customer_Churn_Analysis.ipynb)
+* PDF Report: Provide actionable insights to reduce customer attrition [👁️ View | 📥 Download](https://github.com/prosenjit500/Customer_Churn_Analysis/blob/main/Customer%20Churn%20Analysis%20Report.pdf)
 
 ---
 
@@ -107,4 +105,9 @@ Understanding customer churn is essential for proactive business decision-making
 
 ---
 
-Would you like this in a *PowerPoint, **PDF, or **LinkedIn-ready visual format* as well? I can help format it into your preferred medium.
+## 📬 Contact & Contributions  
+If you find these projects useful or have suggestions for improvements, feel free to contribute or reach out!
+
+🔗 LinkedIn: *Prosenjit Majumder* [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
+
+📧 Email: prosenjitmajumder500@gmail.com
